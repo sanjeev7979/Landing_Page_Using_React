@@ -1,2 +1,8 @@
-# Landing_Page_Using_React
-This project is a branding landing page for a shoe store built using React.js. It showcases modern web development practices and focuses on delivering an attractive, responsive, and engaging user experience. The landing page highlights product details, promotional offers, and customer-centric features.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
